@@ -1,0 +1,6 @@
+{
+  "name": "陈静琳的每日体重记录",
+  "description": "专为陈静琳量身定制的每日体重记录与管理应用，带有精美的粉色和白色主题、直观的日期体重宫格总览、累计数据分析、历史记录统计，以及高度直观的数据图表，可直接打包生成安装包。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
